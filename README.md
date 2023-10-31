@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Nguyen Van Hoang, a recent graduate from the University of Information Technology (UIT) - VNU HCM, with a major in Computer Science. I'm passionate about the world of technology and the endless possibilities it offers.
+I am Nguyen Van Hoang, about to graduate from University of Information Technology (UIT) - VNU HCM, majoring in Computer Science. I am passionate about the world of technology and the endless possibilities it offers.
 
 > "Embracing science and technology leads us to the future."
 
