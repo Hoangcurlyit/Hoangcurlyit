@@ -29,8 +29,10 @@ I have a diverse skill set, which includes but is not limited to:
 - **Deployment:** Docker, docker-compose
 - **Soft Skills:** Critical thinking, Computational thinking, Teamwork, Time management
 
-[![LinkedIn])](https://www.linkedin.com/in/hoangcurlyit) LinkedIn
+## Follow Me
 
-[![Facebook])](https://www.facebook.com/in/curly.uit) Facebook
+[![LinkedIn])](https://www.linkedin.com/in/hoangcurlyit)
+
+[![Facebook])](https://www.facebook.com/curly.uit) 
 
 Feel free to explore my repositories and projects to get a better understanding of my work and interests. If you have any questions or want to collaborate, don't hesitate to reach out to me via email. Thank you for visiting my GitHub page! 😊
